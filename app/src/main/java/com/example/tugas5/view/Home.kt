@@ -64,7 +64,7 @@ fun HalamanAwal(
                 color = blueTheme
             )
             Text(
-                text = stringResource(id = R.string.nim),
+                stringResource(id = R.string.nim),
                 fontSize = 14.sp,
                 color = Color.Gray
             )
